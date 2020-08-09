@@ -71,7 +71,7 @@ description = "Raw RPC layer for Hyperspace"
 name = "hyperspace-rpc"
 optional = false
 python-versions = ">=3.6,<4.0"
-version = "0.0.1a1"
+version = "0.0.1a2"
 
 [[package]]
 category = "dev"
@@ -172,7 +172,7 @@ docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
 testing = ["jaraco.itertools", "func-timeout"]
 
 [metadata]
-content-hash = "688ed64ba61b667e40515f07bf11b69c25a143654a375db152aebec7d7a2ab20"
+content-hash = "85dbd9840e5cc044f39375534af42520fa9256df87b0eb0c18d8dac07dba85f0"
 python-versions = "^3.6"
 
 [metadata.files]
@@ -197,8 +197,8 @@ flake8 = [
     {file = "flake8-3.8.3.tar.gz", hash = "sha256:f04b9fcbac03b0a3e58c0ab3a0ecc462e023a9faf046d57794184028123aa208"},
 ]
 hyperspace-rpc = [
-    {file = "hyperspace-rpc-0.0.1a1.tar.gz", hash = "sha256:0e99b1b12888a1e5d5036619bb294e56d46f8a5f3d5973eea396ddccb549dc40"},
-    {file = "hyperspace_rpc-0.0.1a1-py3-none-any.whl", hash = "sha256:d4e6a777ffc730cdcbe79a33f2ff4cd2f89ac75864ae4c0282d443b4bad64000"},
+    {file = "hyperspace-rpc-0.0.1a2.tar.gz", hash = "sha256:305688a401e45370b30f0718686cac3f19f673389a74d9b8f0e4b989420df785"},
+    {file = "hyperspace_rpc-0.0.1a2-py3-none-any.whl", hash = "sha256:fb706c3eb0c39335c2b4f78fa5a271afff3c61b347e27e2ad383e6c8f3e50ac4"},
 ]
 importlib-metadata = [
     {file = "importlib_metadata-1.7.0-py2.py3-none-any.whl", hash = "sha256:dc15b2969b4ce36305c51eebe62d418ac7791e9a157911d58bfb1f9ccd8e2070"},

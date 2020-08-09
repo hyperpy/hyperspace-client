@@ -15,7 +15,7 @@ keywords = []
 
 [tool.poetry.dependencies]
 python = "^3.6"
-hyperspace-rpc = "^0.0.1-alpha.1"
+hyperspace-rpc = "^0.0.1-alpha.2"
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
