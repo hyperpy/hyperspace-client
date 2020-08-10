@@ -15,7 +15,7 @@ keywords = []
 
 [tool.poetry.dependencies]
 python = "^3.6"
-hyperspace-rpc = "^0.0.1-alpha.2"
+hyperspace-rpc = "^0.0.1-alpha.3"
 anyio = "^1.4.0"
 purerpc = "^0.6.1"
 trio = "^0.16.0"

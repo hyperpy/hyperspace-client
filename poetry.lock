@@ -158,7 +158,7 @@ description = "Raw RPC layer for Hyperspace"
 name = "hyperspace-rpc"
 optional = false
 python-versions = ">=3.6,<4.0"
-version = "0.0.1a2"
+version = "0.0.1a3"
 
 [[package]]
 category = "main"
@@ -382,7 +382,7 @@ docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
 testing = ["jaraco.itertools", "func-timeout"]
 
 [metadata]
-content-hash = "5c12aea26ee031d7c77466245d20c6689adb3f82c3c4a249fb827f5759286586"
+content-hash = "8c30a202fadc774f80602c3b5072d522afe203af83ebb3359d62a14570554b5d"
 python-versions = "^3.6"
 
 [metadata.files]
@@ -464,8 +464,8 @@ hyperframe = [
     {file = "hyperframe-5.2.0.tar.gz", hash = "sha256:a9f5c17f2cc3c719b917c4f33ed1c61bd1f8dfac4b1bd23b7c80b3400971b41f"},
 ]
 hyperspace-rpc = [
-    {file = "hyperspace-rpc-0.0.1a2.tar.gz", hash = "sha256:305688a401e45370b30f0718686cac3f19f673389a74d9b8f0e4b989420df785"},
-    {file = "hyperspace_rpc-0.0.1a2-py3-none-any.whl", hash = "sha256:fb706c3eb0c39335c2b4f78fa5a271afff3c61b347e27e2ad383e6c8f3e50ac4"},
+    {file = "hyperspace-rpc-0.0.1a3.tar.gz", hash = "sha256:482a178fbd525394eb00d72466ae689e9f737b5668c0ac9bec1d5a2b0b66621d"},
+    {file = "hyperspace_rpc-0.0.1a3-py3-none-any.whl", hash = "sha256:5b0317bc13c099a9962991328c8cfdf52ca19ce5c2b367786bdda98be1e707fb"},
 ]
 idna = [
     {file = "idna-2.10-py2.py3-none-any.whl", hash = "sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0"},
