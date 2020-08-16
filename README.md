@@ -4,6 +4,8 @@
 
 ## Standalone Hyperspace RPC client
 
+> **Work In Progress**
+
 ## Install
 
 ```sh
@@ -12,6 +14,4 @@ $ pip install hyperspace-client
 
 ## Example
 
-```python
-print("TODO")
-```
+TODO.
